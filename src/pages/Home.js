@@ -132,7 +132,7 @@ export default function Home() {
             label="Name"
           />
 
-          <Box>
+          <Box className="form-items">
             <FormControl sx={{ m: 1, minWidth: 120, maxWidth: 300 }}>
               <InputLabel shrink htmlFor="select-multiple-native">
                 Sectors
